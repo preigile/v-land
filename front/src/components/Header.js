@@ -1,5 +1,4 @@
 export default () => {
-    console.log('header');
     return `<div class="header">
                 <h3 class="logo">Body Time</h3>
                 <div class="phone-container">

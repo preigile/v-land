@@ -1,4 +1,5 @@
-import Header from './components/Header'
 import './styles/main.less'
 
-console.log(Header());
+import App from "./components/App";
+
+document.getElementById('root').innerHTML = App();
